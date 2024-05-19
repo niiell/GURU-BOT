@@ -9,9 +9,9 @@
 <p/>
 <p align="center">
 <a href="https://github.com/Guru322?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Guru322?label=Followers&style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Guru322/GURU-BOT?&style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Guru322/GURU-BOT?style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Guru322/GURU-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/niiell/macengwa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/niiell/macengwa?&style=social"></a>
+<a href="https://github.com/niiell/macengwa/network/members"><img title="Fork" src="https://img.shields.io/github/forks/niiell/macengwa?style=social"></a>
+<a href="https://github.com/niiell/macengwa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/niiell/macengwa?label=Watching&style=social"></a>
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT.svg?type=shield"/></a>
 </p>
 
@@ -24,7 +24,7 @@ GURU-BOT- Simple Multi Device whatsapp bot.
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Guru322/GURU-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/niiell/macengwa/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -108,7 +108,7 @@ GURU-BOT- Simple Multi Device whatsapp bot.
 
 2. Now Deploy
     <br>
-<p align="center"><a href="https://repl.it/github/Guru322/GURU-BOT"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://repl.it/github/niiell/macengwa"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
  
  ## 🤩 Support
