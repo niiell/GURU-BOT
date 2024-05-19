@@ -3,6 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
+require('dotenv').config();
+
 import dotenv from 'dotenv'
 dotenv.config()
 
