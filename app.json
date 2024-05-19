@@ -10,7 +10,7 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "6285161602919;Ash"
+      "value": "6285161602919;Maceng"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -18,12 +18,12 @@
       "value": "Maceng"
     },
     "DATABASE_URL": {
-      "description": "your mongodb database url",
+      "description": "ep-dark-dawn-a1g3vxgl.ap-southeast-1.pg.koyeb.app",
       "required": false,
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "GuruBot~ZRbmau7Q",
       "required": true,
       "value": ""
     },
